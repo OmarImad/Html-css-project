@@ -235,6 +235,18 @@ section{
 .visit:hover{
   color: #601cfc;
 }
+
+.project-card a{
+  text-decoration: none;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.project-card a:hover{
+  color: #601cfc;
+  font-weight: bold;
+}
+
 /* End Project Section style */
 
 /* Start Contact Section style */
